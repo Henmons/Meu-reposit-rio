@@ -1,2 +1,4 @@
 # Meu-reposit-rio
 Projeto da aula 3 (Cronograma)
+HENRIQUE MONTEIRO DA SILVA RA: 24008154
+THIAGO VOUPONI COSMO RA:24020763
